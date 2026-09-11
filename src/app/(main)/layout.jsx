@@ -2,7 +2,7 @@ import Header from "@/components/Header";
 import NavBar from "@/components/NavBar";
 
 
-const HomeLayout = ({children}) => {
+const MainLayout = ({children}) => {
   return (
     <>
         <Header></Header> 
@@ -12,4 +12,4 @@ const HomeLayout = ({children}) => {
   )
 }
 
-export default HomeLayout;
+export default MainLayout;
