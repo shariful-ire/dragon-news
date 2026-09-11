@@ -1,8 +1,8 @@
 
 const NavBar = () => {
     return (
-        <div>
-            This is the navbar
+        <div className="text-4xl text-amber-300">
+            This is the Navbar
         </div>
     );
 };
